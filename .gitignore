@@ -41,3 +41,4 @@ Podfile.lock
 # Misc
 *.log
 *.code-workspace
+colors-app.xcodeproj
